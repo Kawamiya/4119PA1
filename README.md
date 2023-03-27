@@ -5,8 +5,8 @@ zx2413
 CS4119 PA1
 
 TO RUN MY CODE:
-1. To run my server, please type "java -jar UDPChat.jar -s <server_port>"
-2. To run a client, please type "java -jar UDPChat.jar -c <name> <server-ip> <server-port> <client-port>"
+1. To run server, please type "java -jar UDPChat.jar -s <server_port>"
+2. To run client, please type "java -jar UDPChat.jar -c <name> <server-ip> <server-port> <client-port>"
 
 NOTES
 
